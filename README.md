@@ -9,7 +9,6 @@ The models which cannot be solved are summarized below:
 |-----------------------------|-----------|----------------------|----------|---------------|------------|
 | Aspergillus nidulans        | iHD666    | David et al.         | 18405346 | StoichBlocked | FALSE      |
 | Buchnera aphidicola         | iGT196    | Thomas et al.        | 19232131 | EnergyBlocked | FALSE      |
-| Clostridium acetobutylicum  | iJL432    | Lee et al.           | 18758767 | Subset        | not parsed |
 | Corynebacterium glutamicum  | iKK446    | Kjeldsen and Nielsen | 18985611 | EnergyBlocked | FALSE      |
 | Corynebacterium glutamicum  | iYS277    | Shinfuku et al.      | 19646286 | StoichBlocked | FALSE      |
 | Chromohalobacter salexigens | iOA584    | Ates et al.          | 21251315 | StoichBlocked | FALSE      |
