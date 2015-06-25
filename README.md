@@ -22,4 +22,3 @@ The models which cannot be solved are summarized below:
 | Saccharomyces cerevisiae    | iIN800    | Nookaew et al.       | 18687109 | IrrevBlocked  | FALSE      |
 | Streptococcus thermophilus  | iMP429    | Pastink et al.       | 19346354 | Subset        | not parsed |
 | Synechocystis sp. PCC6803   | iPF633    | Fu                   |          | TopBlocked    | not parsed |
-| Zymomonas mobilis           | iZM363    | Widiastuti et al.    | 20967753 | IrrevBlocked  | FALSE      |
