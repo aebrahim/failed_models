@@ -16,7 +16,7 @@ The models which cannot be solved are summarized below:
 | Lactobacillus plantarum     | iBT721    | Teusink et al.       | 17062565 | TopBlocked    | FALSE      |
 | Neisseria meningitidis      | iGB555    | Baart et al.         | 17617894 | IrrevBlocked  | FALSE      |
 | Plasmodium falciparum       | PlasmoNet | Huthmacher et al.    | 20807400 | TopBlocked    | FALSE      |
-| Staphylococcus aureus       | iMH551    | Heinemann et al.     | 16155945 | EnergyBlocked | not parsed |
+| Staphylococcus aureus       | iMH551    | Heinemann et al.     | 16155945 | EnergyBlocked | FALSE      |
 | Staphylococcus aureus       | S_aureus  | Lee et al.           | 19376871 | TopBlocked    | not parsed |
 | Saccharomyces cerevisiae    | iLL672    | Kuepfer et al.       | 16204195 | Subset        | FALSE      |
 | Saccharomyces cerevisiae    | iIN800    | Nookaew et al.       | 18687109 | IrrevBlocked  | FALSE      |
