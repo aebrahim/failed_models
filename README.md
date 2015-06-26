@@ -7,7 +7,6 @@ The models which cannot be solved are summarized below:
 
 | Organism                    | Version   | Reference            | PMID     | Mongoose      | COBRA      |
 |-----------------------------|-----------|----------------------|----------|---------------|------------|
-| Aspergillus nidulans        | iHD666    | David et al.         | 18405346 | StoichBlocked | FALSE      |
 | Buchnera aphidicola         | iGT196    | Thomas et al.        | 19232131 | EnergyBlocked | FALSE      |
 | Corynebacterium glutamicum  | iKK446    | Kjeldsen and Nielsen | 18985611 | EnergyBlocked | FALSE      |
 | Corynebacterium glutamicum  | iYS277    | Shinfuku et al.      | 19646286 | StoichBlocked | FALSE      |
